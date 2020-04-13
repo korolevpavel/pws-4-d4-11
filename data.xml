@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0"><object model="p_library.author" pk="1"><field name="full_name" type="TextField">Николай Васильевич Гоголь</field><field name="birth_year" type="SmallIntegerField">1809</field><field name="country" type="CharField">RU</field></object></django-objects>
